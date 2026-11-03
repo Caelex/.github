@@ -2,48 +2,56 @@
 
 <br>
 
-<sub>CAELEX OCULAR</sub>
+<sub>CAELEX</sub>
 
-### Export-control classification, with its reasoning attached.
+### Space regulatory compliance and export control, in one system.
 
-Ocular reads a part's datasheet and returns its control-list position, the legal derivation and a signed record. For every manufacturer that exports, starting with space and defence.
+Space and defence companies carry two compliance loads at once: getting their missions authorised and controlling what they ship. Caelex brings both into one system, from the first filing to every part that crosses a border, with the reasoning attached to every answer.
 
-[caelex.eu](https://www.caelex.eu) &nbsp;·&nbsp; [Try Ocular](https://www.caelex.eu/ocular) &nbsp;·&nbsp; [Book a walkthrough](https://www.caelex.eu/contact) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/company/caelex)
+[caelex.eu](https://www.caelex.eu) &nbsp;·&nbsp; [Free assessment](https://www.caelex.eu/assessment) &nbsp;·&nbsp; [Book a walkthrough](https://www.caelex.eu/contact) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/company/caelex)
 
 <br>
 
 <sub>THE PROBLEM</sub>
 
-### Every part a supplier ships has to be classified first.
+### Every mission is a stack of regimes.
 
-The EU dual-use list alone runs to thousands of positions, with UK, US and military lists on top, and new editions every year. Today the code lives in the ERP while the reasoning lives in an email or in someone's head, and the next list edition starts the work over.
+A single mission can touch national space laws, NCA filings, spectrum and NIS2 before it ever leaves the ground. And every part a supplier ships has to be classified against the dual-use and military lists first. Today both live in spreadsheets, emails and people's heads, and every new rule or list edition starts the work over.
 
 <br>
 
-<sub>HOW OCULAR WORKS</sub>
+<sub>TWO DISCIPLINES, ONE SYSTEM</sub>
 
-### Datasheet in. List position and proof out.
+### From filing to orbit, and every shipment in between.
 
 <table>
   <tr>
-    <td width="25%" valign="top"><sub>01</sub><br><b>Read</b><br><sub>Values come from the datasheet with page and position. Gaps stay open. Nothing is guessed.</sub></td>
-    <td width="25%" valign="top"><sub>02</sub><br><b>Ask</b><br><sub>A few guided questions settle what the datasheet leaves open.</sub></td>
-    <td width="25%" valign="top"><sub>03</sub><br><b>Decide</b><br><sub>A deterministic engine checks the official list edition and shows why. <code>UNKNOWN</code> is a valid outcome.</sub></td>
-    <td width="25%" valign="top"><sub>04</sub><br><b>Sign</b><br><sub>The officer confirms. A hash-chained record is kept, and the code goes back to the ERP.</sub></td>
+    <td width="50%" valign="top">
+      <sub>01 · SPACE REGULATORY COMPLIANCE</sub><br>
+      <b><a href="https://www.caelex.eu/comply">Comply</a></b><br>
+      <sub>Every obligation of a mission in one workspace: authorisation, registration, debris mitigation, cybersecurity, insurance and supervision. Across national space laws and NIS2, and prepared for the proposed EU Space Act.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 · EXPORT CONTROL</sub><br>
+      <b><a href="https://www.caelex.eu/ocular">Ocular</a> &amp; <a href="https://www.caelex.eu/passage">Passage</a></b><br>
+      <sub>Ocular reads a part's datasheet and returns its control-list position, the legal derivation and a signed record. Passage screens counterparties, tracks licences and prepares authority-ready filings.</sub>
+    </td>
   </tr>
 </table>
 
+Both run on one shared platform with one audit trail, so the regulatory side and the export side of a company work from the same record.
+
 <br>
 
-<sub>OUR INSIGHT</sub>
+<sub>HOW WE BUILD</sub>
 
-### In export control, a guess is worthless.
+### In compliance, a guess is worthless.
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>Zero tolerance</b><br><sub>A wrong classification is a violation. Being right most of the time is not a product.</sub></td>
-    <td width="33%" valign="top"><b>The data is controlled</b><br><sub>Datasheets can themselves be controlled technology. They cannot go to a model abroad.</sub></td>
-    <td width="33%" valign="top"><b>So we compile the law</b><br><sub>Official list text becomes tested rules. A deterministic engine decides, an officer signs. In the cloud or on-premise.</sub></td>
+    <td width="33%" valign="top"><b>Zero tolerance</b><br><sub>A wrong classification or a missed obligation is a violation. Being right most of the time is not a product.</sub></td>
+    <td width="33%" valign="top"><b>Cited, not invented</b><br><sub>Official legal text becomes tested rules. Every result carries its source. <code>UNKNOWN</code> is a valid answer.</sub></td>
+    <td width="33%" valign="top"><b>People decide</b><br><sub>The software proposes and shows why. Operators, counsel and export officers sign off. In the cloud or on-premise.</sub></td>
   </tr>
 </table>
 
@@ -51,9 +59,12 @@ The EU dual-use list alone runs to thousands of positions, with UK, US and milit
 
 <sub>COVERAGE</sub>
 
-### Built on the official lists.
-
-EU Dual-Use Regulation 2021/821 &nbsp;·&nbsp; EU Common Military List &nbsp;·&nbsp; German Ausfuhrliste &nbsp;·&nbsp; UK strategic export lists &nbsp;·&nbsp; ITAR &nbsp;·&nbsp; EAR &nbsp;·&nbsp; MTCR
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Space</b><br><sub>National space laws · NIS2 · Cyber Resilience Act · EU Space Act (proposal, COM(2025) 335)</sub></td>
+    <td width="50%" valign="top"><b>Export</b><br><sub>EU Dual-Use Regulation 2021/821 · EU Common Military List · German Ausfuhrliste · UK strategic export lists · ITAR · EAR · MTCR</sub></td>
+  </tr>
+</table>
 
 <br>
 
@@ -71,11 +82,11 @@ EU Dual-Use Regulation 2021/821 &nbsp;·&nbsp; EU Common Military List &nbsp;·&
 
 <br>
 
-### Clearing the path for everything Europe exports.
+### Clearing the path to orbit.
 
-Investors, integrators and heads of export control: we'd like to show you Ocular on your own parts.
+Investors, operators and heads of export control: we'd like to show you Caelex on your own missions and parts.
 **[Book a walkthrough](https://www.caelex.eu/contact)**
 
 <br>
 
-<sub>Caelex is software. It is not legal advice and does not grant export licences. The officer confirms every classification.</sub>
+<sub>Caelex is software. It is not legal advice and does not grant licences or authorisations. The EU Space Act is referenced as a proposal (COM(2025) 335).</sub>
